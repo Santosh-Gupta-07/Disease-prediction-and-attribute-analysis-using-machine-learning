@@ -1,1 +1,2 @@
-# Disease-prediction-and-parameter-analysis-using-machine-learning
+# Disease-Daignosis-and-prediction-Using-Deeplearnig
+Deeplearning Project
