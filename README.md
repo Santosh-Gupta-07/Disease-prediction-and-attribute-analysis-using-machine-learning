@@ -1,4 +1,4 @@
-# Disease-Daignosis-and-parameter analysis-Using-machine learning
+# Disease-prediction-and-parameter analysis-Using-machine learning
 Install the followwing module
 
 matplotlib==3.5.1
