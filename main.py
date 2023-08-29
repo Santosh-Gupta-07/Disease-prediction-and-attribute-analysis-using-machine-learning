@@ -82,10 +82,6 @@ if page=='About':
     st.subheader("Created By : ")
     st.write("Ashutosh Singh Kushwaha  Contact at : https://in.linkedin.com/in/ashutosh-singh-kushwaha-0836b5182")
     st.write("Santosh Gupta Contact at : https://www.linkedin.com/in/snth-07/")
-    st.write("Shreyansh Tripathi Contact at : https://www.linkedin.com/in/shreyansh-tripathi-156979195")
-    st.write("Avnish Tripathi Contact at : https://www.linkedin.com/in/avnish-tripathi-4559a5196")
-
-
 #------------------------------------HOME---------------------------------------#
 
 elif page=='Home':
